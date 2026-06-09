@@ -37,11 +37,11 @@ https://github.com/riddhimasingh237/swiggy-sales-dashboard-excel/blob/main/SWIGG
   <img width="805" height="456" alt="SWIGGY DASHBOARD" src="https://github.com/user-attachments/assets/271e8d83-b006-404d-b59b-8513890f64c2" />
 
 # Skills Demonstrated
-Data Cleaning
-Data Visualization
-Business Analytics
-Dashboard Design
-Excel Automation
+Data cleaning
+Data visualization
+Business Analystics
+Dashboard designing
+
 
 
 

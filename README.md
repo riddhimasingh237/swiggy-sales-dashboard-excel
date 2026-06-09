@@ -33,7 +33,7 @@ This dashboard helps analyze operational and sales performance using key busines
 # DASHBOARD
   <img width="805" height="456" alt="SWIGGY DASHBOARD" src="https://github.com/user-attachments/assets/271e8d83-b006-404d-b59b-8513890f64c2" />
 
-#Skills Demonstrated
+# Skills Demonstrated
 Data Cleaning
 Data Visualization
 Business Analytics

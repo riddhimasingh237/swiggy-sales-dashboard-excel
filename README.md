@@ -42,6 +42,14 @@ https://github.com/riddhimasingh237/swiggy-sales-dashboard-excel/blob/main/SWIGG
 * Business Analytics
 * Data Cleaning
 
+ # Final Conclusion
+The Swiggy Sales Dashboard project successfully transformed raw food delivery data into meaningful business insights using Advanced Excel techniques. Through interactive dashboards, KPI tracking, Pivot Tables, slicers, and data visualization, the project helped analyze sales performance, customer behavior, restaurant efficiency, and order trends.
+
+The dashboard enables quick and data-driven decision-making by identifying high-performing restaurants, popular food categories, revenue trends, and customer preferences. It also reduces manual analysis efforts by presenting complex data in a simplified and visually interactive format.
+
+
+
+
 
 
 

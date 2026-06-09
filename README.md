@@ -30,6 +30,9 @@ This dashboard helps analyze operational and sales performance using key busines
 * Helped identify peak ordering periods for better resource planning
 * Compared restaurant performance using KPIs and visual analytics
 
+# Data and Analysis
+https://github.com/riddhimasingh237/swiggy-sales-dashboard-excel/blob/main/SWIGGY%20EXCEL%20(1).xlsx
+
 # DASHBOARD
   <img width="805" height="456" alt="SWIGGY DASHBOARD" src="https://github.com/user-attachments/assets/271e8d83-b006-404d-b59b-8513890f64c2" />
 
